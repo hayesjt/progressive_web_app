@@ -1,0 +1,8 @@
+<li>
+	<b>{{book_name}}</b>
+	<button class="change-completed" data-id="{{id}}" data-newcompleted="{{completed}}">
+		{{#if completed}}Read!{{else}}Start!{{/if}}
+	</button>
+
+	<button class="delete-book" data-id="{{this.id}}">Delete</button>
+</li>

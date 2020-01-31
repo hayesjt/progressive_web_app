@@ -1,0 +1,56 @@
+body {
+    background-color: lightgray;
+  }
+  
+  .container {
+    border: 3px solid black;
+    background-color: white;
+  }
+  
+  .title {
+    margin-top: 50px;
+  }
+  
+  .col-md-12, .col-md-6 {
+    text-align: center;
+    width: 100%;
+  }
+  
+  li {
+    padding: 5px;
+    margin: 5px;
+  }
+  
+  .label {
+    font-weight: bold;
+  }
+  
+  .create-form {
+    padding: 5px;
+    margin: 5px;
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .form-group {
+    margin-bottom: 5px;
+  }
+  
+  img {
+    height: 300px;
+    width: 400px;
+  }
+  
+  .read, .completed{
+    margin-top: 20px;
+  }
+  
+  button {
+    background-color: lightsteelblue;
+    color: black;
+  }
+  
+  .submit {
+    background-color: rgb(39, 129, 202);
+  }
+  
